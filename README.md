@@ -9,7 +9,7 @@ I enjoy building projects that combine mechanical systems with electronics and p
 ### Mars Rover Design
 Designed a Mars rover concept inspired by the Perseverance platform, including the chassis, suspension, robotic arm, gripper, camera system, and other mechanical components.
 
-[View Project](YOUR_MARS_ROVER_REPO_LINK)
+[View Project](https://github.com/angbres/Mars-Rover)
 
 ### Autonomous Targeting Turret
 Built a rotating Arduino-based turret that used ultrasonic sensing, servo control, DC motors, and an automated loading and firing system.
