@@ -14,7 +14,7 @@ Designed a Mars rover concept inspired by the Perseverance platform, including t
 ### Autonomous Targeting Turret
 Built a rotating Arduino-based turret that used ultrasonic sensing, servo control, DC motors, and an automated loading and firing system.
 
-[View Project]([YOUR_TURRET_REPO_LINK](https://github.com/angbres/Autonomous-Targeting-Turret))
+[View Project]([YOUR_TURRET_REPO_LINK](https://github.com/angbres/Autonomous-Targeting-Turret)
 
 ## Technical Interests
 
